@@ -1,24 +1,24 @@
 ##############################
-#Ëîêàöèÿ: Livos
-#Èìÿ: Claudia Horton 
-#Êğàòêîå îïèñàíèå: Øèçîôğåíè÷íàÿ âäîâà Ïèòåğà Hortonà
-#Äàòà ñîçäàíèÿ: 24.08.2014
+#Ã‹Ã®ÃªÃ Ã¶Ã¨Ã¿: Livos
+#ÃˆÃ¬Ã¿: Claudia Horton 
+#ÃŠÃ°Ã Ã²ÃªÃ®Ã¥ Ã®Ã¯Ã¨Ã±Ã Ã­Ã¨Ã¥: Ã˜Ã¨Ã§Ã®Ã´Ã°Ã¥Ã­Ã¨Ã·Ã­Ã Ã¿ Ã¢Ã¤Ã®Ã¢Ã  ÃÃ¨Ã²Ã¥Ã°Ã  HortonÃ 
+#Ã„Ã Ã²Ã  Ã±Ã®Ã§Ã¤Ã Ã­Ã¨Ã¿: 24.08.2014
 ##############################
-#Äëÿ èãğû "Îëèìï 2207"
-#Àğòåì "Rainman" Ñàìîéëîâ
+#Ã„Ã«Ã¿ Ã¨Ã£Ã°Ã» "ÃÃ«Ã¨Ã¬Ã¯ 2207"
+#Ã€Ã°Ã²Ã¥Ã¬ "Rainman" Ã‘Ã Ã¬Ã®Ã©Ã«Ã®Ã¢
 ##############################
 #
-#ÎÏÈÑÀÍÈÅ ÊĞÈÒÒÅĞÀ
+#ÃÃÃˆÃ‘Ã€ÃÃˆÃ… ÃŠÃÃˆÃ’Ã’Ã…ÃÃ€
 #
-# äî çíàêîìñòâà
+# Ã¤Ã® Ã§Ã­Ã ÃªÃ®Ã¬Ã±Ã²Ã¢Ã 
 {1}{}{You see a nervously looking woman with a glass of wine in her hand.}
 {2}{}{She drinks, but her glass stays full.}
 #
-# ïîñëå çíàêîìñòâà
+# Ã¯Ã®Ã±Ã«Ã¥ Ã§Ã­Ã ÃªÃ®Ã¬Ã±Ã²Ã¢Ã 
 {3}{}{You see Claudia.}
 {4}{}{She has a glassy-eyed look.}
 #
-#ÇÄÅÑÜ ÍÀ×ÈÍÀÅÒÑß ÄÈÀËÎÃ
+#Ã‡Ã„Ã…Ã‘Ãœ ÃÃ€Ã—ÃˆÃÃ€Ã…Ã’Ã‘ÃŸ Ã„ÃˆÃ€Ã‹ÃÃƒ
 #
 {10}{}{[You see a woman with tired eyes and lowered shoulders. She is constantly looking around, turning to every rustling sound. When you approach, she proudly raises her head] So, here you are at last. You came for me. I thought he would have the courage to do it himself, but he sent you. Get it done then, let's finish this.}
 {11}{002}{Yes, I came to you. But what should I get done?}
@@ -118,7 +118,7 @@
 {241}{023}{Looks like an accident to me.}
 {242}{010}{Let me ask something else.}
 
-{250}{}{Inhabitants of Livos are the descendants of great people. It is us, who are destined to revive the civilization, spreading the laws of a New World. These laws are the greatest achievement of our society. They are reflected in the Constitution of 15 rights. We will define new rules of living. For example, according to paragraph 2 of the Constitution, "Every inhabitant of New World has the right to breathe (and also, to cough and sneeze) the air of the New World, without needing the permission from other inhabitants of New World". This is going to blow the minds of humanity, leading us towards the great future!}
+{250}{}{Inhabitants of Livos are the descendants of great people. It is we who are destined to revive civilization, spreading the laws of a New World. These laws are the greatest achievement of our society. They are reflected in the Constitution of 15 rights. We will define new rules of living. For example, according to paragraph 2 of the Constitution, "Every inhabitant of New World has the right to breathe (and also, to cough and sneeze) the air of the New World, without needing the permission from other inhabitants of New World". This is going to blow the minds of humanity, leading us towards the great future!}
 {251}{010}{Yes, this looks important. Let me ask something else.}
 
 {260}{}{The most important family in Livos is us, Hortons. Our ancestors were landlords and real estate owners, and my brother Ashton is the rightful successor of the rights to own this whole place. We only let other families live here because we are very kind. Ashton is the only one who can repair the vital equipment. If not for him, everything would break down here. Livos would fall into decline without Hortons. Schweins, McKinseys, and Duntons are busy with petty things and do nothing important.}
