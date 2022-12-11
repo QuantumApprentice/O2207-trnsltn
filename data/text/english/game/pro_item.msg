@@ -76,8 +76,8 @@
 {3801}{}{Very useful, crushes bones like it's nothing.\nMin. ST: 5}
 {3900}{}{Corkscrew}
 {3901}{}{A rather dangerous and inconspicuous weapon. Aim for the eyes!\nMin. ST: 3}
-{4000}{}{Buzz-Bladed Glove}
-{4001}{}{Bzzzz! A chainsaw on your hand. Chopping meat, cutting sinew, and crushing bones never were so easy! It's so light and comfortable that you're likely to forget about it when deciding to scratch yourself. A great unarmed weapon.\nMin. ST: 6}
+{4000}{}{Buzz-Blade Glove}
+{4001}{}{Bzzzz! A chainsaw on your hand. Chopping meat, cutting sinew, and crushing bones has never been so easy! It's so light and comfortable that you're likely to forget about it when deciding to scratch yourself. A great unarmed weapon.\nMin. ST: 6}
 {4100}{}{Batteries}
 {4101}{}{The only generally accepted means of payment in the Radius.}
 {4200}{}{Mine}
@@ -662,7 +662,7 @@
 {33101}{}{An electronic access card for the "Design and Engineering Bureau" level.}
 {33200}{}{Physics Access Card}
 {33201}{}{An electronic access card for the "Laboratories of Physical Science" level.}
-{33300}{}{Õ2 Access Card}
+{33300}{}{Ã•2 Access Card}
 {33301}{}{An electronic access card marked X2.}
 {33400}{}{X1 Access Card}
 {33401}{}{An electronic access card marked X1.}
