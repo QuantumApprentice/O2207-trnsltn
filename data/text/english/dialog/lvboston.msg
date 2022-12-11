@@ -1,24 +1,24 @@
 ##############################
-#Ëîêàöèÿ: Livos
-#Èìÿ: Boston McKinsey
-#Êğàòêîå îïèñàíèå: 
-#Äàòà ñîçäàíèÿ: 23.08.2014
+#Ã‹Ã®ÃªÃ Ã¶Ã¨Ã¿: Livos
+#ÃˆÃ¬Ã¿: Boston McKinsey
+#ÃŠÃ°Ã Ã²ÃªÃ®Ã¥ Ã®Ã¯Ã¨Ã±Ã Ã­Ã¨Ã¥: 
+#Ã„Ã Ã²Ã  Ã±Ã®Ã§Ã¤Ã Ã­Ã¨Ã¿: 23.08.2014
 ##############################
-#Äëÿ èãğû "Îëèìï 2207"
-#Àğòåì "Rainman" Ñàìîéëîâ
+#Ã„Ã«Ã¿ Ã¨Ã£Ã°Ã» "ÃÃ«Ã¨Ã¬Ã¯ 2207"
+#Ã€Ã°Ã²Ã¥Ã¬ "Rainman" Ã‘Ã Ã¬Ã®Ã©Ã«Ã®Ã¢
 ##############################
 #
-#ÎÏÈÑÀÍÈÅ ÊĞÈÒÒÅĞÀ
+#ÃÃÃˆÃ‘Ã€ÃÃˆÃ… ÃŠÃÃˆÃ’Ã’Ã…ÃÃ€
 #
-# äî çíàêîìñòâà
+# Ã¤Ã® Ã§Ã­Ã ÃªÃ®Ã¬Ã±Ã²Ã¢Ã 
 {1}{}{You see a chunky, plumb cowboy.}
 {2}{}{His greasy squinted eyes patronizingly gaze at everyone around.}
 #
-# ïîñëå çíàêîìñòâà
+# Ã¯Ã®Ã±Ã«Ã¥ Ã§Ã­Ã ÃªÃ®Ã¬Ã±Ã²Ã¢Ã 
 {3}{}{You see Boston McKinsey.}
 {4}{}{Wearing dashing spurred boots, he looks very vivid.}
 #
-#ÇÄÅÑÜ ÍÀ×ÈÍÀÅÒÑß ÄÈÀËÎÃ
+#Ã‡Ã„Ã…Ã‘Ãœ ÃÃ€Ã—ÃˆÃÃ€Ã…Ã’Ã‘ÃŸ Ã„ÃˆÃ€Ã‹ÃÃƒ
 #
 {10}{}{[You see an obese man with a red face and shifty eyes] Whoa! Who's that? That's someone new! Hey, look, he's here! Let's get acquainted, newbie-doobie! Hahahah, I'm kidding! Come here, give a little hug to old Boston McKinsey! [He spreads his fat arms trying to hug you]}
 {11}{002}{[You take a few steps back] Pleased to meet you. No need for hugging. I just want to ask a few questions.}
@@ -176,7 +176,7 @@
 {390}{}{[Boston holds his head] Ow, that hurts! Careful! Ow!}
 {391}{999}{Done. Now I'll go to Claudia and tell her I avenged Peter. She will leave you alone after that.}
 
-{400}{}{[Boston swiftly turns to you. There's hope in his eyes] Really? You will? That's wonderful! I'll do everything you say! Hell, I'm going to give you my gun, if you'll pull this off! Do everything you have to, but make this freaking psycho leave me alone!}
+{400}{}{[Boston swiftly turns to you. There's hope in his eyes] Really? You will? That's wonderful! I'll do everything you say! Hell, I'll give you my gun if you pull this off! Do anything you have to, but make this freaking psycho leave me alone!}
 {401}{999}{Okay, I'll think about what can be done.}
 
 {410}{}{So let them forge an alliance with each other! They can even take turns! Hahahaha! I've never heard about these pathetic weaklings. You can tell them that I don't care. Maybe some other family might want to deal with them, but not mine.}
